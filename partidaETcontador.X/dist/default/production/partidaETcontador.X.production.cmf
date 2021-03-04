@@ -29,7 +29,7 @@ cstackCOMMON COMMON 1 70 70 A 1
 inittext CODE 0 69B 69B 13 2
 idataBANK0 CODE 0 68B 68B 10 2
 dataBANK0 BANK0 1 20 20 10 1
-$C:\Users\20185561\AppData\Local\Temp\s9ho.o
+$C:\Users\20185561\AppData\Local\Temp\s5b0.o
 end_init CODE 0 0 0 3 2
 config CONFIG 0 2007 2007 2 2
 # %UNUSED Section
@@ -78,21 +78,21 @@ STRING 800-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\partidaETcontador.X.production.o
-7EE cinit CODE >1099:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7EE cinit CODE >1102:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7EE cinit CODE >1143:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7EF cinit CODE >1144:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F0 cinit CODE >1145:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F1 cinit CODE >1146:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F2 cinit CODE >1147:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F3 cinit CODE >1148:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F4 cinit CODE >1149:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F5 cinit CODE >1150:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F6 cinit CODE >1151:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7F7 cinit CODE >1152:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7FC cinit CODE >1158:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7FC cinit CODE >1160:C:\Users\20185561\AppData\Local\Temp\s9ho.
-7FD cinit CODE >1161:C:\Users\20185561\AppData\Local\Temp\s9ho.
+7EE cinit CODE >1099:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7EE cinit CODE >1102:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7EE cinit CODE >1143:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7EF cinit CODE >1144:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F0 cinit CODE >1145:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F1 cinit CODE >1146:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F2 cinit CODE >1147:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F3 cinit CODE >1148:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F4 cinit CODE >1149:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F5 cinit CODE >1150:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F6 cinit CODE >1151:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7F7 cinit CODE >1152:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7FC cinit CODE >1158:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7FC cinit CODE >1160:C:\Users\20185561\AppData\Local\Temp\s5b0.
+7FD cinit CODE >1161:C:\Users\20185561\AppData\Local\Temp\s5b0.
 630 text11 CODE >22:C:\Users\20185561\MPLABXProjects\PartidaETcontador\partidaETcontador.X\contatores.c
 630 text11 CODE >24:C:\Users\20185561\MPLABXProjects\PartidaETcontador\partidaETcontador.X\contatores.c
 637 text11 CODE >25:C:\Users\20185561\MPLABXProjects\PartidaETcontador\partidaETcontador.X\contatores.c
@@ -197,23 +197,23 @@ $dist/default/production\partidaETcontador.X.production.o
 7E6 maintext CODE >78:C:\Users\20185561\MPLABXProjects\PartidaETcontador\partidaETcontador.X\main.c
 7EA maintext CODE >80:C:\Users\20185561\MPLABXProjects\PartidaETcontador\partidaETcontador.X\main.c
 7EB maintext CODE >81:C:\Users\20185561\MPLABXProjects\PartidaETcontador\partidaETcontador.X\main.c
-69B inittext CODE >1117:C:\Users\20185561\AppData\Local\Temp\s9ho.
-69B inittext CODE >1118:C:\Users\20185561\AppData\Local\Temp\s9ho.
-69C inittext CODE >1119:C:\Users\20185561\AppData\Local\Temp\s9ho.
-69D inittext CODE >1120:C:\Users\20185561\AppData\Local\Temp\s9ho.
-69E inittext CODE >1121:C:\Users\20185561\AppData\Local\Temp\s9ho.
-69F inittext CODE >1128:C:\Users\20185561\AppData\Local\Temp\s9ho.
-69F inittext CODE >1129:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6A4 inittext CODE >1130:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6A5 inittext CODE >1131:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6A6 inittext CODE >1132:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6A7 inittext CODE >1133:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6A8 inittext CODE >1134:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6A9 inittext CODE >1135:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6AA inittext CODE >1136:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6AB inittext CODE >1137:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6AC inittext CODE >1138:C:\Users\20185561\AppData\Local\Temp\s9ho.
-6AD inittext CODE >1139:C:\Users\20185561\AppData\Local\Temp\s9ho.
+69B inittext CODE >1117:C:\Users\20185561\AppData\Local\Temp\s5b0.
+69B inittext CODE >1118:C:\Users\20185561\AppData\Local\Temp\s5b0.
+69C inittext CODE >1119:C:\Users\20185561\AppData\Local\Temp\s5b0.
+69D inittext CODE >1120:C:\Users\20185561\AppData\Local\Temp\s5b0.
+69E inittext CODE >1121:C:\Users\20185561\AppData\Local\Temp\s5b0.
+69F inittext CODE >1128:C:\Users\20185561\AppData\Local\Temp\s5b0.
+69F inittext CODE >1129:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6A4 inittext CODE >1130:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6A5 inittext CODE >1131:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6A6 inittext CODE >1132:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6A7 inittext CODE >1133:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6A8 inittext CODE >1134:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6A9 inittext CODE >1135:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6AA inittext CODE >1136:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6AB inittext CODE >1137:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6AC inittext CODE >1138:C:\Users\20185561\AppData\Local\Temp\s5b0.
+6AD inittext CODE >1139:C:\Users\20185561\AppData\Local\Temp\s5b0.
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -244,22 +244,22 @@ _S0 CCC 0 CODE 0 text7 dist/default/production\partidaETcontador.X.production.o
 _S1 CE4 0 CODE 0 text6 dist/default/production\partidaETcontador.X.production.o
 main@t 74 0 COMMON 1 cstackCOMMON dist/default/production\partidaETcontador.X.production.o
 __Hstrings 0 0 ABS 0 strings -
-___sp 0 0 STACK 2 stack C:\Users\20185561\AppData\Local\Temp\s9ho.o
+___sp 0 0 STACK 2 stack C:\Users\20185561\AppData\Local\Temp\s5b0.o
 _main D8A 0 CODE 0 maintext dist/default/production\partidaETcontador.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
-start 0 0 CODE 0 init C:\Users\20185561\AppData\Local\Temp\s9ho.o
+start 0 0 CODE 0 init C:\Users\20185561\AppData\Local\Temp\s5b0.o
 __CFG_BOREN$OFF 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __size_of_main 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __size_of_K1status 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __LidataBANK0 0 0 ABS 0 idataBANK0 -
 __size_of_contatores_init 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __Hpowerup 0 0 CODE 0 powerup -
-intlevel0 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s9ho.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s9ho.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s9ho.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s9ho.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s9ho.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s9ho.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s5b0.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s5b0.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s5b0.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s5b0.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s5b0.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\20185561\AppData\Local\Temp\s5b0.o
 wtemp0 7E 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __Hfunctab 0 0 ENTRY 0 functab -
 __Hclrtext 0 0 ABS 0 clrtext -
@@ -280,7 +280,7 @@ __end_of_K3 C90 0 CODE 0 text8 dist/default/production\partidaETcontador.X.produ
 __end_of_S0 CE4 0 CODE 0 text7 dist/default/production\partidaETcontador.X.production.o
 __end_of_S1 CFC 0 CODE 0 text6 dist/default/production\partidaETcontador.X.production.o
 __end_of_botoes_init C60 0 CODE 0 text5 dist/default/production\partidaETcontador.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\20185561\AppData\Local\Temp\s9ho.o
+___int_sp 0 0 STACK 2 stack C:\Users\20185561\AppData\Local\Temp\s5b0.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -334,7 +334,7 @@ K1@estado 70 0 COMMON 1 cstackCOMMON dist/default/production\partidaETcontador.X
 __CFG_BOR4V$BOR40V 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __CFG_FOSC$INTRC_NOCLKOUT 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __Lintentry 0 0 CODE 0 intentry -
-reset_vec 0 0 CODE 0 reset_vec C:\Users\20185561\AppData\Local\Temp\s9ho.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\20185561\AppData\Local\Temp\s5b0.o
 __pdataBANK0 20 0 BANK0 1 dataBANK0 dist/default/production\partidaETcontador.X.production.o
 __ptext10 CFC 0 CODE 0 text10 dist/default/production\partidaETcontador.X.production.o
 __ptext11 C60 0 CODE 0 text11 dist/default/production\partidaETcontador.X.production.o
@@ -347,8 +347,8 @@ __CFG_WDTE$OFF 0 0 ABS 0 - dist/default/production\partidaETcontador.X.productio
 __Hinittext 0 0 ABS 0 inittext -
 __size_of_botoes_init 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 main@cont 76 0 COMMON 1 cstackCOMMON dist/default/production\partidaETcontador.X.production.o
-stackhi 0 0 ABS 0 - C:\Users\20185561\AppData\Local\Temp\s9ho.o
-stacklo 0 0 ABS 0 - C:\Users\20185561\AppData\Local\Temp\s9ho.o
+stackhi 0 0 ABS 0 - C:\Users\20185561\AppData\Local\Temp\s5b0.o
+stacklo 0 0 ABS 0 - C:\Users\20185561\AppData\Local\Temp\s5b0.o
 __CFG_LVP$OFF 0 0 ABS 0 - dist/default/production\partidaETcontador.X.production.o
 __Lspace_0 0 0 ABS 0 - -
 __Lspace_1 0 0 ABS 0 - -
